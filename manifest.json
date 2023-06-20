@@ -1,0 +1,32 @@
+{
+    "theme_color": "#ffd521",
+    "background_color": "#ffffff",
+    "display": "fullscreen",
+    "scope": "/pwa-parcial-1-dwt3bv-bilotti-florencia",
+    "start_url": "/pwa-parcial-1-dwt3bv-bilotti-florencia/index.html",
+    "short_name": "WSApp",
+    "description": "En esta app se encuentran los personajes de los simpson, con datos de cada personaje. pudiendo hacer una lista de tus personajes favoritos",
+    "name": "WikiSimpson",
+    "icons": [
+        {
+            "src": "img/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "img/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "img/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "img/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
